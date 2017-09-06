@@ -5,3 +5,6 @@ c:\users\lum54506\documents\visual studio 2015\Projects\Kata\Kata\bin\Debug\Kata
 c:\users\lum54506\documents\visual studio 2015\Projects\Kata\Kata\obj\Debug\Kata.exe
 c:\users\lum54506\documents\visual studio 2015\Projects\Kata\Kata\obj\Debug\Kata.pdb
 C:\Users\lum54506\Documents\Visual Studio 2015\Projects\Kata\Kata\bin\Debug\Machine.Specifications.dll
+E:\Kata\Kata\bin\Debug\Kata.exe.config
+E:\Kata\Kata\obj\Debug\Kata.exe
+E:\Kata\Kata\obj\Debug\Kata.pdb
