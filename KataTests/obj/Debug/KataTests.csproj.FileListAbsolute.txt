@@ -1,0 +1,9 @@
+C:\Users\lum54506\Documents\Visual Studio 2015\Projects\Kata\KataTests\bin\Debug\KataTests.dll
+C:\Users\lum54506\Documents\Visual Studio 2015\Projects\Kata\KataTests\bin\Debug\KataTests.pdb
+C:\Users\lum54506\Documents\Visual Studio 2015\Projects\Kata\KataTests\bin\Debug\Kata.exe
+C:\Users\lum54506\Documents\Visual Studio 2015\Projects\Kata\KataTests\bin\Debug\nunit.framework.dll
+C:\Users\lum54506\Documents\Visual Studio 2015\Projects\Kata\KataTests\bin\Debug\Kata.pdb
+C:\Users\lum54506\Documents\Visual Studio 2015\Projects\Kata\KataTests\bin\Debug\nunit.framework.xml
+C:\Users\lum54506\Documents\Visual Studio 2015\Projects\Kata\KataTests\obj\Debug\KataTests.csprojResolveAssemblyReference.cache
+C:\Users\lum54506\Documents\Visual Studio 2015\Projects\Kata\KataTests\obj\Debug\KataTests.dll
+C:\Users\lum54506\Documents\Visual Studio 2015\Projects\Kata\KataTests\obj\Debug\KataTests.pdb
